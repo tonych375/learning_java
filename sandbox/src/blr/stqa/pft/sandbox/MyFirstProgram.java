@@ -2,9 +2,8 @@ package blr.stqa.pft.sandbox;
 
 public class MyFirstProgram {
 
-	public static void main(String[] args) {
-
-System.out.println("Hello, World");
-	}
+  public static void main(String[] args) {
+    System.out.println("Hello, World");
+  }
 
 }
